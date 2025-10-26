@@ -1,1 +1,1 @@
-Completed a PC healtgh monitor system with AI analysis
+Completed a PC health monitor system with AI analysis
